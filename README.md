@@ -2,6 +2,7 @@
 # Phillips, Bill, and Brian Hardy. "Android Programming: The Big Nerd Ranch Big." Nerd Ranch Guides (2019).
 
 ## 1. First Android Application
+Learned about App Basics, Laying out UI, View Objects, Wiring up widgets, Making Toasts
 ## 2. Android and Model-View-Controller
 ## 3. The Activity Lifecycle
 ## 4. Persisting UI State
