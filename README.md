@@ -1,5 +1,4 @@
 # Android Programming
-# Phillips, Bill, and Brian Hardy. "Android Programming: The Big Nerd Ranch Big." Nerd Ranch Guides (2019).
 
 ## 1. First Android Application
 Learned about App Basics, Laying out UI, View Objects, Wiring up widgets and Making Toasts.
